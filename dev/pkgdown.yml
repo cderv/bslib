@@ -1,10 +1,23 @@
-pandoc: 2.7.3
-pkgdown: 1.6.1
+pandoc: 3.1.11
+pkgdown: 2.1.1
 pkgdown_sha: ~
 articles:
-  theming: theming.html
-last_built: 2021-01-20T17:17Z
+  any-project/index: any-project/index.html
+  bs4-variables/index: bs4-variables/index.html
+  bs5-variables/index: bs5-variables/index.html
+  cards/index: cards/index.html
+  column-layout/index: column-layout/index.html
+  custom-components/index: custom-components/index.html
+  dashboards/index: dashboards/index.html
+  examples/index: examples/index.html
+  filling/index: filling/index.html
+  sidebars/index: sidebars/index.html
+  theming/index: theming/index.html
+  tooltips-popovers/index: tooltips-popovers/index.html
+  utility-classes/index: utility-classes/index.html
+  value-boxes/index: value-boxes/index.html
+  why-sass/index: why-sass/index.html
+last_built: 2024-11-22T13:01Z
 urls:
-  reference: https://rstudio.github.io/bslib//reference
-  article: https://rstudio.github.io/bslib//articles
-
+  reference: https://rstudio.github.io/bslib/reference
+  article: https://rstudio.github.io/bslib/articles
